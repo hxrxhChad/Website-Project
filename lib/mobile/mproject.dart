@@ -10,6 +10,7 @@ import 'package:w1/model/project.dart';
 import 'package:w1/widget/hover-icon-text.dart';
 import 'package:w1/widget/snack-bar.dart';
 
+// mobile-oriented
 class mProject extends StatelessWidget {
   // const
   mProject({
